@@ -30,9 +30,7 @@
     </screenshot>
   </screenshots>
   <releases>
-    <release version="126.0.2592.11-1" date="2024-05-22">
-      <description></description>
-    </release>
+    <release version="126.0.2592.11-1" date="2024-05-22"/>
     <release version="126.0.2578.1-1" date="2024-05-16"/>
     <release version="126.0.2566.1-1" date="2024-05-07"/>
     <release version="126.0.2552.0-1" date="2024-04-30"/>
@@ -98,6 +96,5 @@
     <release version="114.0.1788.0-1" date="2023-04-12"/>
     <release version="113.0.1754.0-1" date="2023-03-23"/>
   </releases>
-  <content_rating type="oars-1.1">
-  </content_rating>
+  <content_rating type="oars-1.1"/>
 </component>

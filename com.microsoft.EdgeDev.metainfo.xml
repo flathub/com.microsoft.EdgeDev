@@ -3,7 +3,7 @@
 <component type="desktop">
   <id>com.microsoft.EdgeDev</id>
   <launchable type="desktop-id">com.microsoft.EdgeDev.desktop</launchable>
-  <name>Microsoft Edge (dev)</name>
+  <name>Microsoft Edge (developer channel)</name>
   <developer_name>Microsoft Corporation</developer_name>
   <summary>Introducing the new Microsoft Edge web browser. It’s time to expect more. More privacy. More control. More productivity. More value.</summary>
   <metadata_license>CC0-1.0</metadata_license>
